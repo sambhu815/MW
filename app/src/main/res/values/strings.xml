@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MoneyWisely</string>
+
+    <!--for login -->
+    <string name="login">Log In</string>
+
+    <string name="error">Error when connecting to server. Please try again.</string>
+    <string name="internet">Please Check your Internet Connection</string>
+    <string name="loading">Loading , Please wait</string>
+    <string name="setting_">Setting</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="interstitial_full_screen">ca-app-pub-1653162349205302/4212343223</string>
+
+
+    <!--home page-->
+    <string name="basic">Basics</string>
+    <string name="Equity">Equity Market Links- India</string>
+    <string name="Commodity">Commodity &#38; World Market Links</string>
+    <string name="Famous">Famous MMB Ids, Blogs, Twitter</string>
+    <string name="Personal">Personal Finance &#38; Other Links</string>
+    <string name="Stock">Stock Market Network and Discussion</string>
+    <string name="Images">Images and Video Resources</string>
+    <string name="Economics">Equity and Economics Calender</string>
+    <string name="Contact">Contact</string>
+</resources>
